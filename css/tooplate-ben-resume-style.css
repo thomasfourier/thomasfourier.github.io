@@ -373,6 +373,7 @@
   .faq-info-text {
     font-size: var(--base-font-size);
     display: block;
+    text-align: justify;
     font-size: 19px;
     font-weight: bold;
     margin: 1.5rem 2rem 0 2rem;
